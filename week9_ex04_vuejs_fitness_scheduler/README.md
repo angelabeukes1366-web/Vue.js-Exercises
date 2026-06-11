@@ -8,6 +8,8 @@ A Vue 3 application that allows gym staff to create and manage fitness class ses
 - Delete classes
 - Form validation
 - Dynamic class count
+
+- 
 - Empty state message
 - Responsive layout
 
